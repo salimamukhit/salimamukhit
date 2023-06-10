@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @salimamukhit
 - 👀 I’m interested in programming, painting, cooking, illustrating, gaming, reading
 - 🌱 I’m currently learning d3js, 
-- 💞️ I’m looking to collaborate on projects that involve environment (social networks or mobile apps)
 - 📫 How to reach me: via LinkedIn: https://www.linkedin.com/in/salima-mukhit
